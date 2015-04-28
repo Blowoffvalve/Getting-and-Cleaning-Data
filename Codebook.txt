@@ -1,0 +1,87 @@
+Total Body Acceleration Mean X
+Total Body Acceleration Mean Y
+Total Body Acceleration Mean Z
+Total GravityAcceleration Mean X
+Total GravityAcceleration Mean Y
+Total GravityAcceleration Mean Z
+Total Body Acceleration Jerk Mean X
+Total Body Acceleration Jerk Mean Y
+Total Body Acceleration Jerk Mean Z
+Total Body Gyroscope Mean X
+Total Body Gyroscope Mean Y
+Total Body Gyroscope Mean Z
+Total Body Gyroscope Jerk Mean X
+Total Body Gyroscope Jerk Mean Y
+Total Body Gyroscope Jerk Mean Z
+Total Body Acceleration Magnitude Mean 
+Total GravityAcceleration Magnitude Mean 
+Total Body Acceleration Jerk Magnitude Mean 
+Total Body Gyroscope Magnitude Mean 
+Total Body Gyroscope Jerk Magnitude Mean 
+Full Body Acceleration Mean X
+Full Body Acceleration Mean Y
+Full Body Acceleration Mean Z
+Full Body Acceleration Mean Frequency X
+Full Body Acceleration Mean Frequency Y
+Full Body Acceleration Mean Frequency Z
+Full Body Acceleration Jerk Mean X
+Full Body Acceleration Jerk Mean Y
+Full Body Acceleration Jerk Mean Z
+Full Body Acceleration Jerk Mean Frequency X
+Full Body Acceleration Jerk Mean Frequency Y
+Full Body Acceleration Jerk Mean Frequency Z
+Full Body Gyroscope Mean X
+Full Body Gyroscope Mean Y
+Full Body Gyroscope Mean Z
+Full Body Gyroscope Mean Frequency X
+Full Body Gyroscope Mean Frequency Y
+Full Body Gyroscope Mean Frequency Z
+Full Body Acceleration Magnitude Mean 
+Full Body Acceleration Magnitude Mean Frequency 
+Full Body Body Acceleration Jerk Magnitude Mean 
+Full Body Body Acceleration Jerk Magnitude Mean Frequency 
+Full Body Body Gyroscope Magnitude Mean 
+Full Body Body Gyroscope Magnitude Mean Frequency 
+Full Body Body Gyroscope Jerk Magnitude Mean 
+Full Body Body Gyroscope Jerk Magnitude Mean Frequency 
+angleTotal Body Acceleration Mean Gravity
+angleTotal Body Acceleration Jerk Mean  Gravity Mean
+angleTotal Body Gyroscope Mean  Gravity Mean
+angleTotal Body Gyroscope Jerk Mean  Gravity Mean
+angleX  Gravity Mean
+angleY  Gravity Mean
+angleZ  Gravity Mean
+Total Body Acceleration Standard Deviation X
+Total Body Acceleration Standard Deviation Y
+Total Body Acceleration Standard Deviation Z
+Total GravityAcceleration Standard Deviation X
+Total GravityAcceleration Standard Deviation Y
+Total GravityAcceleration Standard Deviation Z
+Total Body Acceleration Jerk Standard Deviation X
+Total Body Acceleration Jerk Standard Deviation Y
+Total Body Acceleration Jerk Standard Deviation Z
+Total Body Gyroscope Standard Deviation X
+Total Body Gyroscope Standard Deviation Y
+Total Body Gyroscope Standard Deviation Z
+Total Body Gyroscope Jerk Standard Deviation X
+Total Body Gyroscope Jerk Standard Deviation Y
+Total Body Gyroscope Jerk Standard Deviation Z
+Total Body Acceleration Magnitude Standard Deviation 
+Total GravityAcceleration Magnitude Standard Deviation 
+Total Body Acceleration Jerk Magnitude Standard Deviation 
+Total Body Gyroscope Magnitude Standard Deviation 
+Total Body Gyroscope Jerk Magnitude Standard Deviation 
+Full Body Acceleration Standard Deviation X
+Full Body Acceleration Standard Deviation Y
+Full Body Acceleration Standard Deviation Z
+Full Body Acceleration Jerk Standard Deviation X
+Full Body Acceleration Jerk Standard Deviation Y
+Full Body Acceleration Jerk Standard Deviation Z
+Full Body Gyroscope Standard Deviation X
+Full Body Gyroscope Standard Deviation Y
+Full Body Gyroscope Standard Deviation Z
+Full Body Acceleration Magnitude Standard Deviation 
+Full Body Body Acceleration Jerk Magnitude Standard Deviation 
+Full Body Body Gyroscope Magnitude Standard Deviation 
+Full Body Body Gyroscope Jerk Magnitude Standard Deviation 
+Activity Labels
