@@ -1,3 +1,5 @@
+###THE ACTUAL REPO IS https://github.com/Blowoffvalve/Getting-and-Cleaning-Data
+
 ###Read the data sets into R
 ###Read the training set into R
 train<- read.table('UCI HAR Dataset/train/X_train.txt')
