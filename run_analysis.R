@@ -37,3 +37,5 @@ mergedData<- cbind(mergedData, mergedData_ActivityLabel)
 ### extract all columns that contain mean, sd
 ### Load dplyr first
 library(dplyr)
+ag <- aggregate(. ~ActivityLabels, relevantCols, function(x) c(median=median(x)))
+print(ag)
