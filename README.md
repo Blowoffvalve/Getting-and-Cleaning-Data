@@ -1,4 +1,4 @@
-# Getting-and-Cleaning-Dataa
+# Getting-and-Cleaning-Data
 ###Read the data sets into R
 ###Apply the activity labels for each dataSet
 ###Merge both data sets into a new dataset
